@@ -1,0 +1,14 @@
+2026-04-15 11:43:42,963 - INFO - User Ananth Sagar logged in
+2026-04-15 11:43:42,963 - ERROR - Error processing data: Invalid data
+Traceback (most recent call last):
+  File "/workspaces/Python_practice/logging2.py", line 18, in process_data
+    raise ValueError("Invalid data")
+ValueError: Invalid data
+2026-04-15 11:43:42,967 - INFO - User Ananth Sagar logged out
+2026-04-15 11:57:56,640 - INFO - User Ananth Sagar logged in
+2026-04-15 11:57:56,640 - ERROR - Error processing data: Invalid data
+Traceback (most recent call last):
+  File "/workspaces/Python_practice/logging2.py", line 18, in process_data
+    raise ValueError("Invalid data")
+ValueError: Invalid data
+2026-04-15 11:57:56,643 - INFO - User Ananth Sagar logged out

@@ -1,0 +1,8 @@
+ERROR:root:This is an error messagedd.
+CRITICAL:root:This is a critical message.
+ERROR:root:This is an error messagedd.
+CRITICAL:root:This is a critical message.
+2026-04-15 11:40:36,451 - ERROR - This is an error messagedd ffff.
+2026-04-15 11:40:36,451 - CRITICAL - This is a critical message.
+2026-04-15 11:40:45,490 - ERROR - This is an error messagedd ffff.
+2026-04-15 11:40:45,490 - CRITICAL - This is a critical message.
